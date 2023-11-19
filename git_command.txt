@@ -1,0 +1,9 @@
+git init
+git checkout -b ai50/projects/2023/x/<project-name>
+git status
+git add -A
+git status
+git commit -am "Commit Message"
+git remote add origin https://github.com/me50/<github-user-name>.git
+git remote
+git push origin --all
